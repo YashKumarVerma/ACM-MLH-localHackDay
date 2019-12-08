@@ -1,0 +1,23 @@
+{
+    "name": "blazing/blazing",
+    "description": "Fastest PHP MVC Framework",
+    "version": "1.8.0.9",
+    "type": "library",
+    "keywords": ["php", "mvc" ,"framework", "engine" , "yash" , "kumar" , "verma" , "blazing" , "blazer"],
+    "homepage": "https://github.com/Blazing-PHP/Blazing-The-Framework",
+    "license": "MIT", 
+    "authors": [
+        {
+            "name": "Yash Kumar Verma",
+            "email": "yk.verma2000@gmail.com",
+            "homepage": "https://github.com/YashKumarVerma",
+            "role": "Founder"
+        }
+    ],
+    "support": {
+        "email": "yk.verma2000@gamil.com",
+        "issues": "https://github.com/Blazing-PHP/Blazing-The-Framework/issues",
+        "source": "https://github.com/Blazing-PHP/Blazing-The-Framework",
+        "docs": "http://blazing-php.github.io/Blazing-The-Framework/"
+    }
+}
