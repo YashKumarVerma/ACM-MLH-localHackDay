@@ -1,4 +1,5 @@
-# A (very) Lightweight PHP MVC Framework
-Light PHP MVC 
+# MLH Local Hack Day by ACM
 
-Contributions needed.
+
+Sahayak : A helper for farmers
+
